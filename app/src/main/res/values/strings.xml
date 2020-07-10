@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WSD F-20 SOTI MQTT Device Agent</string>
+    <string name="SOTI_MQTT_Permission_Required">The requested permissions are required to run the SOTI Device Agent. Please reconsider your choice on granting permissions.</string>
+    <string name="SOTI_MQTT_Permission_Rejected">You have chosen to irrevocably reject a required permission. The SOTI Device Agent will not work without this permission. Please grant the requested permissions manually in order to run this application in future.</string>
+    <string name="switch_service">MQTT Service</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="uri">Address</string>
+    <string name="serverUri">Server Address</string>
+    <string name="port">Port</string>
+    <string name="serverPort">Server Port</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="useTLS">Use TLS</string>
+    <string name="save">Save</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+</resources>
